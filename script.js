@@ -1,5 +1,3 @@
-var x = 10
-var y = 20
-var max = 100
-
-if (x) {}
+alert('Selamat Datanng Di Website Kami')
+var nama = prompt('Masukan Nama Anda :')
+alert('Hallo ' + nama)
