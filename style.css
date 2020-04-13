@@ -1,0 +1,91 @@
+/* style */
+
+
+body {
+	font: 16px/20px arial;
+	color: #000;
+	background-color: #eaeaea;
+	background-image: url(gambar1.png);
+
+}
+
+.container {
+	width: 1000px;
+	margin: auto;
+	background-color: #fff;
+
+}
+
+.header {
+	padding: 25px;
+	padding-bottom: 10px;
+
+}
+
+.header .judul {
+	font-size: 40px;
+	font-weight: normal;
+	color: lightskyblue;
+	font-family: Brush Script MT;
+}
+.header ul li {
+	display: inline-block;
+	margin top: 20px;
+	margin-right: 10px;
+}
+
+.header a {
+	text-decoration: none;
+	color: red;
+	padding: 5px;
+}
+.header a:hover {
+	background-color: salmon;
+	color: white;
+
+}
+
+.hero {
+	height: 400px;
+	background-image: url(hero.png);
+	background-size: cover;
+	background-position: 0 -100px;
+	border-top: 3px solid salmon;
+	border-bottom: 3px solid salmon;
+}
+
+.content {
+	padding: 20px;
+}
+
+h2 {
+	font-size: 30px;
+	font-weight: bold;
+	font-variant: small-caps;
+
+}
+
+.penulis a {
+	text-decoration: none;
+	color: red;
+}
+.content .penulis {
+	font-size: 11px;
+	margin-top: -10px;
+}
+
+.content p {
+	margin-bottom: 20px;
+	font-size: 14px;
+}
+
+.footer {
+	background-color: #333;
+	padding: 3px;
+}
+
+.footer .copy {
+	color: #eaeaea;
+	text-align: center;
+}
+/*style akhir masih dalam tahap pengerjaan jadi mohon sabar*/
